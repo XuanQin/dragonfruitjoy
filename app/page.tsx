@@ -51,7 +51,7 @@ const theme = createTheme({
 }
 )
 
-export function Hero(props: {
+function Hero(props: {
   url: string,
   isBackground?: boolean,
   backgroundShadeColor?: string,
