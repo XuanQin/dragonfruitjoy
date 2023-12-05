@@ -12,6 +12,12 @@
 # next.js
 /.next/
 # /out/
+/docs/_next/
+/docs/cache/
+/docs/server/
+/docs/static/
+/docs/types/
+/docs/*.json
 
 # production
 /build
